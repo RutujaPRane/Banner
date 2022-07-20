@@ -1,0 +1,480 @@
+{
+  "82959f08-98ea-497a-9ff0-2ab57cf1f3d3": {
+    "banners": [
+      {
+        "aspectRatio": "16:4",
+        "bizBannerInfo": {
+          "actionType": null,
+          "bizId": "",
+          "offeringCategory": "",
+          "url": ""
+        },
+        "imgPath": "https://firebasestorage.googleapis.com/v0/b/bizbuzzzv2-prod.appspot.com/o/BizAroundMeBanner%2FbizBanner_20-9-2021_1632114772652?alt=media&token=943562b5-ffb1-4b1f-b8b1-787cb50728d3"
+      },
+      {
+        "aspectRatio": "16:4",
+        "bizBannerInfo": {
+          "actionType": null,
+          "bizId": "",
+          "offeringCategory": "",
+          "url": ""
+        },
+        "imgPath": "https://firebasestorage.googleapis.com/v0/b/bizbuzzzv2-prod.appspot.com/o/BizAroundMeBanner%2FbizBanner_20-9-2021_1632114785541?alt=media&token=93fb7eff-d78a-4891-aaf9-caacd910b50f"
+      },
+      {
+        "aspectRatio": "16:4",
+        "bizBannerInfo": {
+          "actionType": null,
+          "bizId": "",
+          "offeringCategory": "",
+          "url": ""
+        },
+        "imgPath": "https://firebasestorage.googleapis.com/v0/b/bizbuzzzv2-prod.appspot.com/o/BizAroundMeBanner%2FbizBanner_20-9-2021_1632114794709?alt=media&token=0c3b833d-8607-47cd-9822-168406073147"
+      },
+      {
+        "aspectRatio": "16:4",
+        "bizBannerInfo": {
+          "actionType": null,
+          "bizId": "",
+          "offeringCategory": "",
+          "url": ""
+        },
+        "imgPath": "https://firebasestorage.googleapis.com/v0/b/bizbuzzzv2-prod.appspot.com/o/BizAroundMeBanner%2FbizBanner_20-9-2021_1632114807912?alt=media&token=06c89e5e-d930-4a36-9c0e-b2ea9340a716"
+      },
+      {
+        "aspectRatio": "16:4",
+        "bizBannerInfo": {
+          "actionType": null,
+          "bizId": "",
+          "offeringCategory": "",
+          "url": ""
+        },
+        "imgPath": "https://firebasestorage.googleapis.com/v0/b/bizbuzzzv2-prod.appspot.com/o/BizAroundMeBanner%2FbizBanner_20-9-2021_1632114817280?alt=media&token=8fbde7a2-c942-4a24-b824-7b0839ce509d"
+      },
+      {
+        "aspectRatio": "16:4",
+        "bizBannerInfo": {
+          "actionType": null,
+          "bizId": "",
+          "offeringCategory": "",
+          "url": ""
+        },
+        "imgPath": "https://firebasestorage.googleapis.com/v0/b/bizbuzzzv2-prod.appspot.com/o/BizAroundMeBanner%2FbizBanner_20-9-2021_1632114824161?alt=media&token=e4d577d0-c866-4ca4-89aa-f04b80aa909f"
+      }
+    ],
+    "createdDateTime": {
+      "__datatype__": "timestamp",
+      "value": "2021-09-20T05:13:55.445Z"
+    },
+    "id": "82959f08-98ea-497a-9ff0-2ab57cf1f3d3",
+    "latLng": {
+      "__datatype__": "geopoint",
+      "value": {
+        "_latitude": 12.9715987,
+        "_longitude": 77.5945627
+      }
+    },
+    "timerInMs": 7000,
+    "updatedDateTime": {
+      "__datatype__": "timestamp",
+      "value": "2021-09-20T05:13:55.445Z"
+    }
+  },
+  "ccf10fa6-9268-4e1a-a963-a702377760f2": {
+    "banners": [
+      {
+        "aspectRatio": "16:4",
+        "bizBannerInfo": {
+          "actionType": null,
+          "bizId": "",
+          "offeringCategory": "",
+          "url": ""
+        },
+        "imgPath": "https://firebasestorage.googleapis.com/v0/b/bizbuzzzv2-prod.appspot.com/o/BizAroundMeBanner%2FbizBanner_20-9-2021_1632114891641?alt=media&token=2968c4cc-3bb6-4770-8b16-8d4ead287cc7"
+      },
+      {
+        "aspectRatio": "16:4",
+        "bizBannerInfo": {
+          "actionType": null,
+          "bizId": "",
+          "offeringCategory": "",
+          "url": ""
+        },
+        "imgPath": "https://firebasestorage.googleapis.com/v0/b/bizbuzzzv2-prod.appspot.com/o/BizAroundMeBanner%2FbizBanner_20-9-2021_1632114900111?alt=media&token=73a8f68e-2973-4f3c-8363-dc4223e3126c"
+      },
+      {
+        "aspectRatio": "16:4",
+        "bizBannerInfo": {
+          "actionType": null,
+          "bizId": "",
+          "offeringCategory": "",
+          "url": ""
+        },
+        "imgPath": "https://firebasestorage.googleapis.com/v0/b/bizbuzzzv2-prod.appspot.com/o/BizAroundMeBanner%2FbizBanner_20-9-2021_1632114907925?alt=media&token=80113b16-0e67-4990-a102-242c061756cb"
+      },
+      {
+        "aspectRatio": "16:4",
+        "bizBannerInfo": {
+          "actionType": null,
+          "bizId": "",
+          "offeringCategory": "",
+          "url": ""
+        },
+        "imgPath": "https://firebasestorage.googleapis.com/v0/b/bizbuzzzv2-prod.appspot.com/o/BizAroundMeBanner%2FbizBanner_20-9-2021_1632114917351?alt=media&token=d09b353d-bd3b-4785-b1e0-10eae660cbf7"
+      },
+      {
+        "aspectRatio": "16:4",
+        "bizBannerInfo": {
+          "actionType": null,
+          "bizId": "",
+          "offeringCategory": "",
+          "url": ""
+        },
+        "imgPath": "https://firebasestorage.googleapis.com/v0/b/bizbuzzzv2-prod.appspot.com/o/BizAroundMeBanner%2FbizBanner_20-9-2021_1632114929254?alt=media&token=2515f934-e0c0-44c3-9eb6-e975fe30e658"
+      }
+    ],
+    "createdDateTime": {
+      "__datatype__": "timestamp",
+      "value": "2021-09-20T05:15:44.700Z"
+    },
+    "id": "ccf10fa6-9268-4e1a-a963-a702377760f2",
+    "latLng": {
+      "__datatype__": "geopoint",
+      "value": {
+        "_latitude": 17.385044,
+        "_longitude": 78.486671
+      }
+    },
+    "timerInMs": 7000,
+    "updatedDateTime": {
+      "__datatype__": "timestamp",
+      "value": "2021-09-20T05:15:44.700Z"
+    }
+  },
+  "c0d4891b-08ee-448c-8697-f70c28214455": {
+    "banners": [
+      {
+        "aspectRatio": "16:4",
+        "bizBannerInfo": {
+          "actionType": null,
+          "bizId": "",
+          "offeringCategory": "",
+          "url": ""
+        },
+        "imgPath": "https://firebasestorage.googleapis.com/v0/b/bizbuzzzv2-prod.appspot.com/o/BizAroundMeBanner%2FbizBanner_20-9-2021_1632115081831?alt=media&token=05cc15e0-35c7-4584-8391-b494d7382b6b"
+      },
+      {
+        "aspectRatio": "16:4",
+        "bizBannerInfo": {
+          "actionType": null,
+          "bizId": "",
+          "offeringCategory": "",
+          "url": ""
+        },
+        "imgPath": "https://firebasestorage.googleapis.com/v0/b/bizbuzzzv2-prod.appspot.com/o/BizAroundMeBanner%2FbizBanner_20-9-2021_1632115088418?alt=media&token=76b997c4-d59a-4777-9661-8b4dedf8f8a4"
+      },
+      {
+        "aspectRatio": "16:4",
+        "bizBannerInfo": {
+          "actionType": null,
+          "bizId": "",
+          "offeringCategory": "",
+          "url": ""
+        },
+        "imgPath": "https://firebasestorage.googleapis.com/v0/b/bizbuzzzv2-prod.appspot.com/o/BizAroundMeBanner%2FbizBanner_20-9-2021_1632115095276?alt=media&token=86edc82f-36bf-401e-bf0e-6cd0863c5957"
+      },
+      {
+        "aspectRatio": "16:4",
+        "bizBannerInfo": {
+          "actionType": null,
+          "bizId": "",
+          "offeringCategory": "",
+          "url": ""
+        },
+        "imgPath": "https://firebasestorage.googleapis.com/v0/b/bizbuzzzv2-prod.appspot.com/o/BizAroundMeBanner%2FbizBanner_20-9-2021_1632115101917?alt=media&token=be2f14ac-b6f8-4c48-9b33-d68f1df70c0c"
+      },
+      {
+        "aspectRatio": "16:4",
+        "bizBannerInfo": {
+          "actionType": null,
+          "bizId": "",
+          "offeringCategory": "",
+          "url": ""
+        },
+        "imgPath": "https://firebasestorage.googleapis.com/v0/b/bizbuzzzv2-prod.appspot.com/o/BizAroundMeBanner%2FbizBanner_20-9-2021_1632115110667?alt=media&token=6cabfb95-1072-461f-9ca1-e44a8c5d1b18"
+      },
+      {
+        "aspectRatio": "16:4",
+        "bizBannerInfo": {
+          "actionType": null,
+          "bizId": "",
+          "offeringCategory": "",
+          "url": ""
+        },
+        "imgPath": "https://firebasestorage.googleapis.com/v0/b/bizbuzzzv2-prod.appspot.com/o/BizAroundMeBanner%2FbizBanner_20-9-2021_1632115121613?alt=media&token=7198b4f4-0c5e-45a5-a9e2-0b11fa902cdd"
+      }
+    ],
+    "createdDateTime": {
+      "__datatype__": "timestamp",
+      "value": "2021-09-20T05:18:48.329Z"
+    },
+    "id": "c0d4891b-08ee-448c-8697-f70c28214455",
+    "latLng": {
+      "__datatype__": "geopoint",
+      "value": {
+        "_latitude": 17.4875418,
+        "_longitude": 78.3953462
+      }
+    },
+    "timerInMs": 7000,
+    "updatedDateTime": {
+      "__datatype__": "timestamp",
+      "value": "2021-09-20T05:18:48.329Z"
+    }
+  },
+  "f8888238-d689-4144-b093-18811b588733": {
+    "banners": [
+      {
+        "aspectRatio": "16:4",
+        "bizBannerInfo": {
+          "actionType": null,
+          "bizId": "",
+          "offeringCategory": "",
+          "url": ""
+        },
+        "imgPath": "https://firebasestorage.googleapis.com/v0/b/bizbuzzzv2-prod.appspot.com/o/BizAroundMeBanner%2FbizBanner_8-6-2021_1623138233543?alt=media&token=95d6543a-abb2-47dc-98f7-eee479e83d74"
+      },
+      {
+        "aspectRatio": "16:4",
+        "bizBannerInfo": {
+          "actionType": null,
+          "bizId": "",
+          "offeringCategory": "",
+          "url": ""
+        },
+        "imgPath": "https://firebasestorage.googleapis.com/v0/b/bizbuzzzv2-prod.appspot.com/o/BizAroundMeBanner%2FbizBanner_8-6-2021_1623138271788?alt=media&token=214b5409-b23c-4aad-bd41-2e27c78c259e"
+      },
+      {
+        "aspectRatio": "16:4",
+        "bizBannerInfo": {
+          "actionType": null,
+          "bizId": "",
+          "offeringCategory": "",
+          "url": ""
+        },
+        "imgPath": "https://firebasestorage.googleapis.com/v0/b/bizbuzzzv2-prod.appspot.com/o/BizAroundMeBanner%2FbizBanner_8-6-2021_1623138279825?alt=media&token=501d83ff-9b93-4209-9e3d-887ffdf83ef9"
+      },
+      {
+        "aspectRatio": "16:4",
+        "bizBannerInfo": {
+          "actionType": null,
+          "bizId": "",
+          "offeringCategory": "",
+          "url": ""
+        },
+        "imgPath": "https://firebasestorage.googleapis.com/v0/b/bizbuzzzv2-prod.appspot.com/o/BizAroundMeBanner%2FbizBanner_8-6-2021_1623138286767?alt=media&token=c0a50d79-2eee-45c4-9467-c40d98e8fc5a"
+      },
+      {
+        "aspectRatio": "16:4",
+        "bizBannerInfo": {
+          "actionType": null,
+          "bizId": "",
+          "offeringCategory": "",
+          "url": ""
+        },
+        "imgPath": "https://firebasestorage.googleapis.com/v0/b/bizbuzzzv2-prod.appspot.com/o/BizAroundMeBanner%2FbizBanner_8-6-2021_1623138293703?alt=media&token=dca71ae4-ee15-4854-8359-2240a18e0279"
+      }
+    ],
+    "createdDateTime": {
+      "__datatype__": "timestamp",
+      "value": "2021-06-08T07:45:01.859Z"
+    },
+    "id": "f8888238-d689-4144-b093-18811b588733",
+    "latLng": {
+      "__datatype__": "geopoint",
+      "value": {
+        "_latitude": 17.4875418,
+        "_longitude": 78.3953462
+      }
+    },
+    "timerInMs": 7000,
+    "updatedDateTime": {
+      "__datatype__": "timestamp",
+      "value": "2021-06-08T07:45:01.859Z"
+    }
+  },
+  "6897a7d8-ce7d-402f-b8b1-fc0b34fee115": {
+    "banners": [
+      {
+        "aspectRatio": "16:4",
+        "bizBannerInfo": {
+          "actionType": null,
+          "bizId": "",
+          "offeringCategory": "",
+          "url": ""
+        },
+        "imgPath": "https://firebasestorage.googleapis.com/v0/b/bizbuzzzv2-prod.appspot.com/o/BizAroundMeBanner%2FbizBanner_30-8-2021_1630302923271?alt=media&token=91f38985-7a30-4822-ba9f-709537af5d2f"
+      },
+      {
+        "aspectRatio": "16:4",
+        "bizBannerInfo": {
+          "actionType": null,
+          "bizId": "",
+          "offeringCategory": "",
+          "url": ""
+        },
+        "imgPath": "https://firebasestorage.googleapis.com/v0/b/bizbuzzzv2-prod.appspot.com/o/BizAroundMeBanner%2FbizBanner_30-8-2021_1630302938638?alt=media&token=8c0afa0b-f3c4-422f-ac58-ff1939d88482"
+      }
+    ],
+    "createdDateTime": {
+      "__datatype__": "timestamp",
+      "value": "2021-08-30T05:57:11.493Z"
+    },
+    "id": "6897a7d8-ce7d-402f-b8b1-fc0b34fee115",
+    "latLng": {
+      "__datatype__": "geopoint",
+      "value": {
+        "_latitude": 19.8134554,
+        "_longitude": 85.8312359
+      }
+    },
+    "timerInMs": 7000,
+    "updatedDateTime": {
+      "__datatype__": "timestamp",
+      "value": "2021-08-30T05:57:11.493Z"
+    }
+  },
+  "8bd5ae61-d0bd-4fdd-9e6d-aa6663c6cd61": {
+    "banners": [
+      {
+        "aspectRatio": "16:4",
+        "bizBannerInfo": {
+          "actionType": null,
+          "bizId": "",
+          "offeringCategory": "",
+          "url": ""
+        },
+        "imgPath": "https://firebasestorage.googleapis.com/v0/b/bizbuzzzv2-prod.appspot.com/o/BizAroundMeBanner%2FbizBanner_30-8-2021_1630303463824?alt=media&token=4e823eb6-c9c8-4bfb-8398-ee1bbcd25b7d"
+      },
+      {
+        "aspectRatio": "16:4",
+        "bizBannerInfo": {
+          "actionType": null,
+          "bizId": "",
+          "offeringCategory": "",
+          "url": ""
+        },
+        "imgPath": "https://firebasestorage.googleapis.com/v0/b/bizbuzzzv2-prod.appspot.com/o/BizAroundMeBanner%2FbizBanner_30-8-2021_1630303477649?alt=media&token=0bdf8558-30a0-4d6d-a14c-9875d97fe36a"
+      }
+    ],
+    "createdDateTime": {
+      "__datatype__": "timestamp",
+      "value": "2021-08-30T06:05:01.910Z"
+    },
+    "id": "8bd5ae61-d0bd-4fdd-9e6d-aa6663c6cd61",
+    "latLng": {
+      "__datatype__": "geopoint",
+      "value": {
+        "_latitude": 19.8134554,
+        "_longitude": 85.8312359
+      }
+    },
+    "timerInMs": 7000,
+    "updatedDateTime": {
+      "__datatype__": "timestamp",
+      "value": "2021-08-30T06:05:01.910Z"
+    }
+  },
+  "30509324-af7b-4bc4-aa48-8698891321bb": {
+    "banners": [
+      {
+        "aspectRatio": "16:4",
+        "bizBannerInfo": {
+          "actionType": null,
+          "bizId": "",
+          "offeringCategory": "",
+          "url": ""
+        },
+        "imgPath": "https://firebasestorage.googleapis.com/v0/b/bizbuzzzv2-prod.appspot.com/o/BizAroundMeBanner%2FbizBanner_8-6-2021_1623138347168?alt=media&token=5068e6c2-2d79-4cbd-9d02-3f2aee097ffe"
+      },
+      {
+        "aspectRatio": "16:4",
+        "bizBannerInfo": {
+          "actionType": null,
+          "bizId": "",
+          "offeringCategory": "",
+          "url": ""
+        },
+        "imgPath": "https://firebasestorage.googleapis.com/v0/b/bizbuzzzv2-prod.appspot.com/o/BizAroundMeBanner%2FbizBanner_8-6-2021_1623138353605?alt=media&token=cd640bd2-2d60-4c02-89bd-c5f8cf5e0ae2"
+      },
+      {
+        "aspectRatio": "16:4",
+        "bizBannerInfo": {
+          "actionType": null,
+          "bizId": "",
+          "offeringCategory": "",
+          "url": ""
+        },
+        "imgPath": "https://firebasestorage.googleapis.com/v0/b/bizbuzzzv2-prod.appspot.com/o/BizAroundMeBanner%2FbizBanner_8-6-2021_1623138361672?alt=media&token=f5e6fdbb-6ef1-4c41-9d54-fab1de271c35"
+      },
+      {
+        "aspectRatio": "16:4",
+        "bizBannerInfo": {
+          "actionType": null,
+          "bizId": "",
+          "offeringCategory": "",
+          "url": ""
+        },
+        "imgPath": "https://firebasestorage.googleapis.com/v0/b/bizbuzzzv2-prod.appspot.com/o/BizAroundMeBanner%2FbizBanner_8-6-2021_1623138370851?alt=media&token=61989257-d922-4318-8577-7449746666bb"
+      }
+    ],
+    "createdDateTime": {
+      "__datatype__": "timestamp",
+      "value": "2021-06-08T07:46:15Z"
+    },
+    "id": "30509324-af7b-4bc4-aa48-8698891321bb",
+    "latLng": {
+      "__datatype__": "geopoint",
+      "value": {
+        "_latitude": 20.462521,
+        "_longitude": 85.8829895
+      }
+    },
+    "timerInMs": 7000,
+    "updatedDateTime": {
+      "__datatype__": "timestamp",
+      "value": "2021-06-08T07:46:15Z"
+    }
+  },
+  "5808bba0-c6a8-4ff8-b827-996e0232a1ec": {
+    "banners": [
+      {
+        "aspectRatio": "16:4",
+        "bizBannerInfo": {
+          "actionType": null,
+          "bizId": "",
+          "offeringCategory": "",
+          "url": ""
+        },
+        "imgPath": "https://firebasestorage.googleapis.com/v0/b/bizbuzzzv2-prod.appspot.com/o/BizAroundMeBanner%2FbizBanner_18-9-2021_1631986681149?alt=media&token=7523210c-f86e-499a-8637-0a2e8c676252"
+      }
+    ],
+    "createdDateTime": {
+      "__datatype__": "timestamp",
+      "value": "2021-09-18T17:38:05.349Z"
+    },
+    "id": "5808bba0-c6a8-4ff8-b827-996e0232a1ec",
+    "latLng": {
+      "__datatype__": "geopoint",
+      "value": {
+        "_latitude": 20.462521,
+        "_longitude": 85.8829895
+      }
+    },
+    "timerInMs": 7000,
+    "updatedDateTime": {
+      "__datatype__": "timestamp",
+      "value": "2021-09-18T17:38:05.349Z"
+    }
+  }
+}
