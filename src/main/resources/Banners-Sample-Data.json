@@ -63,12 +63,12 @@
       }
     ],
     "createdDateTime": {
-      "__datatype__": "timestamp",
+      "data_type": "timestamp",
       "value": "2021-09-20T05:13:55.445Z"
     },
     "id": "82959f08-98ea-497a-9ff0-2ab57cf1f3d3",
     "latLng": {
-      "__datatype__": "geopoint",
+      "data_type": "geopoint",
       "value": {
         "_latitude": 12.9715987,
         "_longitude": 77.5945627
@@ -76,7 +76,7 @@
     },
     "timerInMs": 7000,
     "updatedDateTime": {
-      "__datatype__": "timestamp",
+      "data_type": "timestamp",
       "value": "2021-09-20T05:13:55.445Z"
     }
   },
@@ -134,12 +134,12 @@
       }
     ],
     "createdDateTime": {
-      "__datatype__": "timestamp",
+      "data_type": "timestamp",
       "value": "2021-09-20T05:15:44.700Z"
     },
     "id": "ccf10fa6-9268-4e1a-a963-a702377760f2",
     "latLng": {
-      "__datatype__": "geopoint",
+      "data_type": "geopoint",
       "value": {
         "_latitude": 17.385044,
         "_longitude": 78.486671
@@ -147,7 +147,7 @@
     },
     "timerInMs": 7000,
     "updatedDateTime": {
-      "__datatype__": "timestamp",
+      "data_type": "timestamp",
       "value": "2021-09-20T05:15:44.700Z"
     }
   },
@@ -215,12 +215,12 @@
       }
     ],
     "createdDateTime": {
-      "__datatype__": "timestamp",
+      "data_type": "timestamp",
       "value": "2021-09-20T05:18:48.329Z"
     },
     "id": "c0d4891b-08ee-448c-8697-f70c28214455",
     "latLng": {
-      "__datatype__": "geopoint",
+      "data_type": "geopoint",
       "value": {
         "_latitude": 17.4875418,
         "_longitude": 78.3953462
@@ -228,7 +228,7 @@
     },
     "timerInMs": 7000,
     "updatedDateTime": {
-      "__datatype__": "timestamp",
+      "data_type": "timestamp",
       "value": "2021-09-20T05:18:48.329Z"
     }
   },
@@ -286,12 +286,12 @@
       }
     ],
     "createdDateTime": {
-      "__datatype__": "timestamp",
+      "data_type": "timestamp",
       "value": "2021-06-08T07:45:01.859Z"
     },
     "id": "f8888238-d689-4144-b093-18811b588733",
     "latLng": {
-      "__datatype__": "geopoint",
+      "data_type": "geopoint",
       "value": {
         "_latitude": 17.4875418,
         "_longitude": 78.3953462
@@ -299,7 +299,7 @@
     },
     "timerInMs": 7000,
     "updatedDateTime": {
-      "__datatype__": "timestamp",
+      "data_type": "timestamp",
       "value": "2021-06-08T07:45:01.859Z"
     }
   },
@@ -327,12 +327,12 @@
       }
     ],
     "createdDateTime": {
-      "__datatype__": "timestamp",
+      "data_type": "timestamp",
       "value": "2021-08-30T05:57:11.493Z"
     },
     "id": "6897a7d8-ce7d-402f-b8b1-fc0b34fee115",
     "latLng": {
-      "__datatype__": "geopoint",
+      "data_type": "geopoint",
       "value": {
         "_latitude": 19.8134554,
         "_longitude": 85.8312359
@@ -340,7 +340,7 @@
     },
     "timerInMs": 7000,
     "updatedDateTime": {
-      "__datatype__": "timestamp",
+      "data_type": "timestamp",
       "value": "2021-08-30T05:57:11.493Z"
     }
   },
@@ -368,12 +368,12 @@
       }
     ],
     "createdDateTime": {
-      "__datatype__": "timestamp",
+      "data_type": "timestamp",
       "value": "2021-08-30T06:05:01.910Z"
     },
     "id": "8bd5ae61-d0bd-4fdd-9e6d-aa6663c6cd61",
     "latLng": {
-      "__datatype__": "geopoint",
+      "data_type": "geopoint",
       "value": {
         "_latitude": 19.8134554,
         "_longitude": 85.8312359
@@ -381,7 +381,7 @@
     },
     "timerInMs": 7000,
     "updatedDateTime": {
-      "__datatype__": "timestamp",
+      "data_type": "timestamp",
       "value": "2021-08-30T06:05:01.910Z"
     }
   },
@@ -429,12 +429,12 @@
       }
     ],
     "createdDateTime": {
-      "__datatype__": "timestamp",
+      "data_type": "timestamp",
       "value": "2021-06-08T07:46:15Z"
     },
     "id": "30509324-af7b-4bc4-aa48-8698891321bb",
     "latLng": {
-      "__datatype__": "geopoint",
+      "data_type": "geopoint",
       "value": {
         "_latitude": 20.462521,
         "_longitude": 85.8829895
@@ -442,7 +442,7 @@
     },
     "timerInMs": 7000,
     "updatedDateTime": {
-      "__datatype__": "timestamp",
+      "data_type": "timestamp",
       "value": "2021-06-08T07:46:15Z"
     }
   },
@@ -460,12 +460,12 @@
       }
     ],
     "createdDateTime": {
-      "__datatype__": "timestamp",
+      "data_type": "timestamp",
       "value": "2021-09-18T17:38:05.349Z"
     },
     "id": "5808bba0-c6a8-4ff8-b827-996e0232a1ec",
     "latLng": {
-      "__datatype__": "geopoint",
+      "data_type": "geopoint",
       "value": {
         "_latitude": 20.462521,
         "_longitude": 85.8829895
@@ -473,7 +473,7 @@
     },
     "timerInMs": 7000,
     "updatedDateTime": {
-      "__datatype__": "timestamp",
+      "data_type": "timestamp",
       "value": "2021-09-18T17:38:05.349Z"
     }
   }

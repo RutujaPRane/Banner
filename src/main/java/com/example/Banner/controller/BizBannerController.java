@@ -24,19 +24,26 @@ public class BizBannerController {
         return bannerService.getAllBizBanner();
     }
 
-    @GetMapping("/bizbanner/{uuid}")
-    public BizBannerLocation fetchBizBanner(@PathVariable("uuid") String uuid) throws ExecutionException, InterruptedException {
+    @GetMapping("/bizbanner/{id}")
+    public BizBannerLocation fetchBizBanner(@PathVariable("id") String uuid) throws ExecutionException, InterruptedException {
         return bannerService.fetchBizBanner(uuid);
     }
+
 
     @PutMapping("/bizbanner")
     public String updateBizBanner(@RequestBody BizBannerLocation bizBannerLocation) throws ExecutionException, InterruptedException {
         return bannerService.updateBizBanner(bizBannerLocation);
     }
 
-    @DeleteMapping("/bizbanner")
-    public String deleteBizBanner(@RequestParam String uuid) {
+    @DeleteMapping("/bizbanner/{id}")
+    public String deleteBizBanner(@PathVariable("id") String uuid) {
         return bannerService.deleteBizBanner(uuid);
 
     }
+
+//    @GetMapping("/bizbanner/geopoint")
+//    public BizBannerLocation fetchNearestBizBannerLocation(@RequestParam(name = "lat") Long _latitude, @RequestParam(name = "lng") Long _longitude) throws ExecutionException, InterruptedException {
+//        return bannerService.fetchNearestBizBannerLocation(_latitude,_longitude);
+//
+//    }
 }

@@ -2,16 +2,16 @@ package com.example.Banner.Entity;
 
 public class BizBannerInfo {
     private String actionType;
-    private String bixId;
+    private String bizId;
     private String offeringCategory;
     private String url;
 
     public BizBannerInfo() {
     }
 
-    public BizBannerInfo(String actionType, String bixId, String offeringCategory, String url) {
+    public BizBannerInfo(String actionType, String bizId, String offeringCategory, String url) {
         this.actionType = actionType;
-        this.bixId = bixId;
+        this.bizId = bizId;
         this.offeringCategory = offeringCategory;
         this.url = url;
     }
@@ -24,12 +24,12 @@ public class BizBannerInfo {
         this.actionType = actionType;
     }
 
-    public String getBixId() {
-        return bixId;
+    public String getBizId() {
+        return bizId;
     }
 
-    public void setBixId(String bixId) {
-        this.bixId = bixId;
+    public void setBizId(String bizId) {
+        this.bizId = bizId;
     }
 
     public String getOfferingCategory() {
@@ -52,7 +52,7 @@ public class BizBannerInfo {
     public String toString() {
         return "BizBannerInfo{" +
                 "actionType='" + actionType + '\'' +
-                ", bixId='" + bixId + '\'' +
+                ", bizId='" + bizId + '\'' +
                 ", offeringCategory='" + offeringCategory + '\'' +
                 ", url='" + url + '\'' +
                 '}';
